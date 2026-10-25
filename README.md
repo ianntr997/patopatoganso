@@ -15,7 +15,7 @@ Mod **solo de servidor**: los jugadores entran con Minecraft Java normal, sin in
 5. Quien se queda de pie queda **eliminado** (si se acaba el tiempo y nadie llego, caen los dos).
 6. Rondas hasta que quede **un solo superviviente** (o hasta las rondas que configures).
 
-## Instalar
+## Instalar (Windows: doble clic en COMPILAR.bat)
 Necesitas Java 21, un servidor Fabric 1.21.1 y Fabric API 0.102.0+1.21.1.
 
 ```
