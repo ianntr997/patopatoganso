@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "patopatoganso",
+	"version": "${version}",
+	"name": "Pato, Pato, Ganso (Squid Craft Games)",
+	"description": "El juego del cuarto dia de los Squid Craft Games 4: circulos de jugadores, un 'ganso' que camina diciendo pato, carrera al arbol y eliminacion. Solo servidor: los jugadores no necesitan instalar nada.",
+	"authors": [
+		"ianntr997"
+	],
+	"contact": {
+		"homepage": "https://kick.com/ianntr997"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/patopatoganso/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.patopatoganso.PatoPatoGanso"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
